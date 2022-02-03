@@ -1,2 +1,1 @@
-
-[blog](https://blog.liglambda.com)
+* [blog](https://blog.liglambda.com)
