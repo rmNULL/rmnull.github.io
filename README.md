@@ -1,1 +1,2 @@
-nothing here
+
+[blog](https://blog.liglambda.com)
